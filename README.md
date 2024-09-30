@@ -1,0 +1,2 @@
+# Jacobian_Inverse_Kinematics_casadi_x_sympy
+Jacobian_Inverse_Kinematics using casadi_x_sympy
